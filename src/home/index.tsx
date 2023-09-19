@@ -138,7 +138,7 @@ export const Home = () => {
               },
               '@md': {alignSelf: 'flex-start'},
             }}>
-            <Text color="$green" fontWeight="$normal">
+            <Text color="$green" fontWeight="$700">
               Todas as lojas
             </Text>
             <Icon as={ChevronDownIcon} m="$2" w="$4" h="$4" />
