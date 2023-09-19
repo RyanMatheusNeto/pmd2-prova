@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default (function () {});","map":{"version":3,"names":[],"sources":["C:/Users/ryann/OneDrive/Área de Trabalho/pdm/my-app/App.tsx"],"sourcesContent":["\nimport React from 'react';\n\nexport default () => {\n  \n};"],"mappings":"AAGA,gBAAe,YAAM,CAErB,CAAC"},"metadata":{},"sourceType":"module","externalDependencies":[]}
